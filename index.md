@@ -1,6 +1,6 @@
 ## <3 l’amour en ligne </3 : les liens de connexion, les relations et l’amour à l’ère numérique
 
-**<3 l’amour en ligne </3 est un « zine » qui examine comment l’internet a affecté nos relations interpersonnelles — nos connexions, nos ruptures et tout le reste. Comment la vie numérique affecte-t-elle notre façon d’aimer dans nos mondes plus vastes?
+**<3 l’amour en ligne </3** est un « zine » qui examine comment l’internet a affecté nos relations interpersonnelles — nos connexions, nos ruptures et tout le reste. Comment la vie numérique affecte-t-elle notre façon d’aimer dans nos mondes plus vastes?
 
 Nous embauchons des artistes et des écrivain-es établi-es au Canada appartenant à des groupes marginalisés afin de contribuer au site. Nous donnerons la priorité aux personnes qui ont un lien avec Montréal.
 
@@ -73,26 +73,25 @@ Envoyez un courriel à love-online@riseup.net avec toutes les informations suiva
 
 *les champs précédés d’un « + » sont obligatoires.*
 
-**+ Nom:
+**+ Nom:**
 
-Identité de genre (et pronoms) ((les deux son facultatifs)):
+**Identité de genre (et pronoms) ((les deux son facultatifs)):**
 
-+ Email:
+**+ Email:**
 
-+ Êtes-vous basé-e au Canada? Quel est votre lien avec Montréal (le cas échéant) ?
-Comment vous identifiez-vous? Incluez autant d’informations que vous le souhaitez.
+**+ Êtes-vous basé-e au Canada? Quel est votre lien avec Montréal (le cas échéant) ?Comment vous identifiez-vous? Incluez autant d’informations que vous le souhaitez.**
 
-+ Comment vous décririez-vous en une phrase?
+**+ Comment vous décririez-vous en une phrase?**
 
-+ Quel médium(s) utilisez-vous pour votre projet? (écrit, aquarelles, peinture numérique, etc.)
+**+ Quel médium(s) utilisez-vous pour votre projet? (écrit, aquarelles, peinture numérique, etc.)**
 
-+ Décrivez votre projet. De quoi discute votre oeuvre? Quel est le rapport avec notre thème? (max 500 caractères)
+**+ Décrivez votre projet. De quoi discute votre oeuvre? Quel est le rapport avec notre thème? (max 500 caractères)**
 
-+ Pourquoi voulez-vous que votre travail apparaisse dans notre zine? (max 500 caractères)
+**+ Pourquoi voulez-vous que votre travail apparaisse dans notre zine? (max 500 caractères)**
 
-Si votre projet comprend une langue écrite, parlée ou signée, dans quelle(s) langue(s) votre pièce apparaîtra-t-elle?
+**Si votre projet comprend une langue écrite, parlée ou signée, dans quelle(s) langue(s) votre pièce apparaîtra-t-elle?**
 
-+ Avez-vous déjà publié cette pièce ailleurs?
+**+ Avez-vous déjà publié cette pièce ailleurs?**
 
-+ Quel montant de compensation demandez-vous pour votre pièce (entre 75-125 $ CAD)?**
+**+ Quel montant de compensation demandez-vous pour votre pièce (entre 75-125 $ CAD)?**
 
