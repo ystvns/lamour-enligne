@@ -22,7 +22,7 @@ Yuan (elle / yel - @ystvns - aime la tech + la loi + l’éthique + la anti-oppr
 **Des questions? Contactez-nous à l'adresse : love-online@riseup.net.**
 
 
-#### Qui es-tu?
+#### Qui êtes-vous?
 
 Vous êtes basé-es au Canada. Vous êtes un-e écrivain-e, un-e penseur-se, un-e activiste, un-e artiste, un-e créateur-ice ou autre chose. Vous faites partie d'un groupe marginalisé. Nous espérons que vous avez un lien avec Montréal. Vous pouvez vous identifier comme noir-e, indigène, une personne de couleur. Vous pouvez vous identifier comme asexuel-le, aromantique, allosexuel-le, queer, LGBTQIA +, intersexué-e, trans, non-binaire, agenre, polyamoureux-se… vous pouvez avoir 86 ans ou 14 ans.
 
