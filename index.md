@@ -46,7 +46,7 @@ Les illustrations doivent être en haute résolution. Les formats de fichier acc
 
 #### Processus de demande
 
-Dans un premier temps, vous nous envoyez par courriel votre candidature (située au bas de cette page), y compris un brouillon de votre soumission originale. (Le date limite : le 22 février 2019 à 23h59 EST). (Ce n’est pas nécessaire que l’œuvre soit complète / finie à ce moment-là). Vous devez inclure votre candidature et votre premier brouillon dans le même courrier électronique, que vous pouvez envoyer à love-online@riseup.net.
+Dans un premier temps, vous nous envoyez par courriel votre candidature (située au bas de cette page), y compris un brouillon de votre soumission originale. (Le date limite : le 1 mars 2019 à 23h59 (EST)). (Ce n’est pas nécessaire que l’œuvre soit complète / finie à ce moment-là). Vous devez inclure votre candidature et votre premier brouillon dans le même courrier électronique, que vous pouvez envoyer à love-online@riseup.net.
 
 Puis nous vous ferons savoir avant le 1er mars si votre projet a été accepté pour publication. Nous pouvons faire des commentaires sur demande pour des pièces qui ne sont pas acceptées pour le zine, dans le cadre de notre engagement en faveur d'un processus décisionnel transparent. Si vous acceptez notre offre après avoir signé l'accord, nous vous enverrons la première partie de votre paiement à ce moment.
 
@@ -56,7 +56,7 @@ Enfin, vous nous envoyez la version finale dûment complétée de votre soumissi
 
 #### La chronologie
 
-1. Dépôt de la candidature et premier projet : le 22 février 2019 à 23h59 (EST)
+1. Dépôt de la candidature et premier projet : le 1 mars 2019 à 23h59 (EST)
 2. Lettres de décision finale envoyées : 1er mars 2019
 3. Soumission du deuxième brouillon (facultatif) : le 15 mars 2019 à 23h59 (EST)
 4. Remise de la pièce finie : le 29 mars 2019 à 23h59 (EST)
@@ -71,7 +71,7 @@ Envoyez un courriel à love-online@riseup.net avec toutes les informations suiva
 
 **Toutes les demandes doivent être soumises au plus tard le 1 mars 2019 à 23h59 (EST)**  
 
-*les champs précédés d’un « + » sont obligatoires.*
+les champs précédés d’un « + » sont obligatoires.
 
 **+ Nom:**
 
