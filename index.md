@@ -69,7 +69,7 @@ Enfin, vous nous envoyez la version finale dûment complétée de votre soumissi
 
 Envoyez un courriel à love-online@riseup.net avec toutes les informations suivantes. Incluez votre nom et le titre de la soumission dans la ligne d'objet. Veuillez également joindre un premier brouillon de votre pièce. Les formats de fichier acceptés sont les suivants: .pdf, .doc, .txt, .png, .psd, .xcf et .ai. Si vous souhaitez soumettre votre travail dans un autre format de fichier, veuillez d'abord nous contacter en nous envoyant un courrier électronique à l'adresse ci-dessus.
 
-**Toutes les demandes doivent être soumises au plus tard le 1 mars 2019 à 23h59 (EST)*  
+**Toutes les demandes doivent être soumises au plus tard le 1 mars 2019 à 23h59 (EST)**  
 
 *les champs précédés d’un « + » sont obligatoires.*
 
