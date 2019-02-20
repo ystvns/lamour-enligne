@@ -18,7 +18,8 @@ Gabriela (elle / elle - @gab_catalina - Colombiana, écrivaine, powerfemme, cher
 Maggie (elle / iel) - @meochaidha - activisme technologique et formation à la sécurité numérique, et parfois de l'art)
 
 Yuan (elle / yel - @ystvns - aime la tech + la loi + l’éthique + la anti-oppression + la réduction des méfaits + les doggos)
-Des questions? Contactez-nous à l'adresse : love-online@riseup.net.**
+
+**Des questions? Contactez-nous à l'adresse : love-online@riseup.net.**
 
 
 #### Qui es-tu?
