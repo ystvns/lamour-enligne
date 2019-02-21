@@ -4,7 +4,7 @@
 
 Nous embauchons des artistes et des écrivain-es établi-es au Canada appartenant à des groupes marginalisés afin de contribuer au site. Nous donnerons la priorité aux personnes qui ont un lien avec Montréal.
 
-Les contributeur-ices recevront entre 75 et 125 $ CAN, en fonction du nombre de soumissions acceptées. Nous sommes en mesure de payer des artistes grâce à une généreuse subvention du Digital Justice Lab.
+Les contributeur-ices recevront entre 75 et 125 $ CAN, en fonction du nombre de soumissions acceptées. Nous sommes en mesure de payer des artistes grâce à une généreuse subvention du [Digital Justice Lab](https://digitaljusticelab.ca/).
 
 <3 l’amour en ligne </3 sera publié numériquement (gratuitement !!) et physiquement (payez ce que vous pouvez). Nous publions au printemps / début été 2019.
 
