@@ -58,7 +58,7 @@ Enfin, vous nous envoyez la version finale dûment complétée de votre soumissi
 #### La chronologie
 
 1. Dépôt de la candidature et premier projet : le 1 mars 2019 à 23h59 (EST)
-2. Lettres de décision finale envoyées : 1er mars 2019
+2. Lettres de décision finale envoyées : le 8 mars 2019
 3. Soumission du deuxième brouillon (facultatif) : le 15 mars 2019 à 23h59 (EST)
 4. Remise de la pièce finie : le 29 mars 2019 à 23h59 (EST)
 5. Publication de zine : fin printemps / début été 2019
